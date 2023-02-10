@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
 # Frontend developer
 
+### Hi there 👋
+
 I'm Svetlana, a frontend web developer from St Peterburg.
-I build creative things on the web and i am passionate about learning new technologies!
+I’m currently learning Html, CSS, JavaScrips and so on 😄
 
 tel: +7 911 765 38 77 (WhatsApp)
 
