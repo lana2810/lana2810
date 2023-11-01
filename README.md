@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I'm Svetlana, a frontend web developer from St Peterburg.
-I’m currently learning Html, CSS, JavaScrips and so on 😄
 
 tel: +7 911 765 38 77 (WhatsApp)
 
